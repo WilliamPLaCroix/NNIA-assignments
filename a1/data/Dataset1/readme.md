@@ -1,0 +1,1 @@
+The JSON file holds data on spam messages, presenting a list of message examples. The text data has been pre-processed for your convenience. Each example's tokens are the result of a transformation using a Huggingface tokenizer. The label is binary (0 or 1), indicating whether the message is spam or not.

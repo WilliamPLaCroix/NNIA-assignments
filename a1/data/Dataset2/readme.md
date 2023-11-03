@@ -1,0 +1,1 @@
+The CSV file comprises information on the symptoms and prognosis related to 11 vector-borne diseases. The symptoms serve as the input for the machine learning model, while the prognosis represents the output. It's essential to perform one-hot encoding on the prognosis column to transform it into numerical values.
